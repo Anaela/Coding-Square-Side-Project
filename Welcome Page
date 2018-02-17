@@ -1,0 +1,67 @@
+<html>
+
+<head>
+    
+    <title>Coding Square</title>
+
+<style>
+
+hr { 
+    margin-top: 45.5em;
+    margin-bottom: 0.5em;
+    margin-left: 30.5em;
+    margin-right: 30.5em;
+    border-width: 4px;
+    border-color: skyblue;
+}
+
+h1 {
+    position: fixed;
+    left: 850px;
+    top: 250px;
+    color: white;
+    font-family: Tw Cen MT;
+}
+
+h2 {
+    position: fixed;
+    left: 900px;
+    top: 300px;
+    color: Gainsboro;
+    font-family: Tw Cen MT;
+}
+
+.button {
+    position: fixed;
+    left: 910px;
+    top: 375px;
+    background-color: skyblue; 
+    border: 5px;
+    color: White;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1{border-radius: 4px;}
+
+</style>
+
+</head>
+
+<body style="background-image:url('https://wallpaperscraft.com/image/scheme_lines_dark_white_47453_1366x768.jpg');background-size:cover;background-position:center;">
+
+<h1>Coding Square</h1>
+
+<h2>Get Started</h2>
+
+<button type="button" class="button button1">Code</button>
+
+<hr>
+
+</body>
+
+</html>
